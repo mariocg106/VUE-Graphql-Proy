@@ -1,0 +1,4 @@
+type Query {
+  marcaList: [marca!]!
+  marcaId(cifm: ID!): Result!
+}
