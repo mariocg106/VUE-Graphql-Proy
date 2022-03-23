@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "620ac82a3c479e1bd4011b5e"
+  },
+  "codcoche": "1",
+  "nombre": "C-Class",
+  "modelo": "",
+  "Combustible": "diesel",
+  "descripcion": "CAMBIO AUTOMATICO CON LEVAS AL VOLANTE, FAROS BIXENON DIRECCIONALES, SENSOR DE LUCES, SENSOR DE LLUVIA, SENSORES DE APARCAMIENTO DELANTERO Y TRASERO, PANTALLA GPS, SISTEMA MP3 BLUETOOTH, NEUMÁTICOS Y FRENOS NUEVOS. ",
+  "Ano": "2010",
+  "Kilometros": "185000",
+  "imagen": "https://www.diariomotor.com/imagenes/2010/12/mercedes-clase-c-2011-09-dm1.jpg",
+  "cifm": "8",
+  "cifCA": "1",
+  "marchas": "auto",
+  "precio": "13000"
+},{
+  "_id": {
+    "$oid": "620ac82a3c479e1bd4011b60"
+  },
+  "codcoche": "2",
+  "nombre": "Q5",
+  "modelo": "TDI",
+  "Combustible": "diesel",
+  "descripcion": "Buenas. Vendo precioso audi Q5 2.0tdi quattro manual  170cv año [hidden information]km. Pintura original,sensores de aparcamiento,espejos eléctricos calefactables y plegables,tempomat de velocidad,xenón (bixenon),cuero en muy buen estado,ayuda en cuesta,ayuda en bajada,freno de mano automático etc.Promocion(transferencia incluida y garantía opcional de motor I caja de cambios). [hidden information] ITV recién pasada",
+  "Ano": "2008",
+  "Kilometros": "230000",
+  "imagen": "https://kocsi-media.hu/117/audi-q5-3-2-fsi-quattro-s-tronic-temp-led-navi-szerv-konyv-932277_87381_1xl.jpg",
+  "cifm": "3",
+  "cifCA": "1",
+  "marchas": "manual",
+  "precio": "15400"
+},{
+  "_id": {
+    "$oid": "620ac82a3c479e1bd4011b61"
+  },
+  "codcoche": "3",
+  "nombre": "serie 3",
+  "modelo": "M",
+  "Combustible": "diesel",
+  "descripcion": "BMW SERIE 3, 320d  184 cv . Coche impecable tanto de chapa como interior y motor. Muchos extras:\n volante deportivo multifunción, sensor de lluvia, sensores de aparcamiento delanteros y traseros,\n pantalla GPS con rotarry para menú, bluetooth para las llamadas, velocidad de crucero, \n asientos delanteros calefactábles, libro de revisiones sellado, Mejor ver y probar , \n se entrega revisado y transferido y garantia de 12 meses todo incluido en el precio",
+  "Ano": "2008",
+  "Kilometros": "240000",
+  "imagen": "https://noticias.coches.com/wp-content/uploads/2016/11/bmw_3-coupe_r34.jpg",
+  "cifm": "4",
+  "cifCA": "3",
+  "marchas": "manual",
+  "precio": "10500"
+},{
+  "_id": {
+    "$oid": "62252bb778b9eae6c8bd5ba4"
+  },
+  "codcoche": "5",
+  "nombre": "Golf 7",
+  "modelo": "GTD",
+  "Combustible": "diesel",
+  "descripcion": "coche nuevo de todo prácticamente de pintura y chapa, asientos de tela, gps, sensores de parking delanteros y traseros, dirección de luz asistida, techo solar, asientos calefactables,  enganche remolque eléctrico y todos los extras de golf 7 gtd mejor ver y probar sin compromiso para más fotos por dentro o video no duden contactar! pack sport/sound",
+  "Ano": "2014",
+  "Kilometros": "145000",
+  "imagen": "https://www.autofacil.es/wp-content/uploads/2021/05/noticia-3-1200x800.jpg",
+  "cifm": "7",
+  "cifCA": "1",
+  "marchas": "manual",
+  "precio": "16500"
+},{
+  "_id": {
+    "$oid": "622547b178b9eae6c8bd5ba5"
+  },
+  "codcoche": "6",
+  "nombre": " LEON",
+  "modelo": "TDI",
+  "Combustible": "diesel",
+  "descripcion": "Seat León 1.6TDI 115cv Muy cuidado con muchos extras, llantas de aluminio, volante multifunción, pantalla táctil, USB, Bluetooth, Control de velocidad, Estar-Stop, Ordenador abordo, etc,,,,",
+  "Ano": "2015",
+  "Kilometros": "220000",
+  "imagen": "https://periodismodelmotor.com/wp-content/uploads/2015/02/prueba-seat-leon-1-6-tdi-i-tech-ecomotive-frontal5-1280x720.jpg",
+  "cifm": "1",
+  "cifCA": "1",
+  "marchas": "manual",
+  "precio": "7500"
+},{
+  "_id": {
+    "$oid": "62254d0bf51a490ac9b4354e"
+  },
+  "codcoche": "7",
+  "nombre": "DS5",
+  "modelo": "",
+  "Combustible": "diesel",
+  "descripcion": "Citroen DS5,  super excelente estado,  2012 año, manual, 126 200 km, muy cuidado y en perfecto estado de motor y del interior, por fuera esta muy bien, aceite, filtros de aire, aceite , habitáculo y combustible  cambiados hace poco. Carea de distribución , con bomba estaan nuevas. NO HAY QUE HACER NADA. coche de fiar. no fumador, no mascotas asientos eléctricos volante multifunción 3 techos panorámicos antiniebla control de velocidad parking asistencia camara de marcha atrás aux cd espejos elecricos abs salón de cuero 2 llaves originales pantalla proyector. 1 año de garantía",
+  "Ano": "2012 ",
+  "Kilometros": "126200",
+  "imagen": "https://noticias.coches.com/wp-content/uploads/2011/11/CITROEN8-e1508858771342.jpg",
+  "cifm": "6",
+  "cifCA": "1",
+  "marchas": "manual",
+  "precio": "10450"
+},{
+  "_id": {
+    "$oid": "62343d40aa57dd933cfbbb4a"
+  },
+  "codcoche": "15",
+  "nombre": "A4",
+  "modelo": "TDI",
+  "Combustible": "diesel",
+  "descripcion": "SE VENDE AUDI A4 AVANT SLINE 2.0 TDI 177 CV AUTOMATICO 8 VELOCIDADES , INTERIOR DEPORTIVO CUERO Y ALCANTARA , NAVEGACION ,CALEFACCION ASIENTOS, BIXENON ,PILOTO AUTOMATICO , ORDENADOR DE ABORDO, ETC A EL COCHE NO HAY QUE HACERLE  NADA , LA REVISIÓN  ESTA RECIEN  PASADA , DISTRIBUCION CAMBIADA A LOS 120 000 KM ITV HASTA 2024 EN EL PRECIO ENTRA OA TRANSFERENCIA SOLO HAY QUE DISFRUTARLO , PRECIO NEGOCIABLE ( RS3 RS5 AUDI A3 A4 A5 A7 SLINE TDI , GTI , BMW 320D 330D 335D M3 E30 M5 F30 F10 X6 530D E60 , GTR , CUPRA SETA LEON , TOLEDO , TRANSPORTER, RENAULT TRAFIC PRIMASTAR VIVARO , RENAULT 5 TURBO , MERCEDES CLA CLS 220CDI 320CDI",
+  "Ano": "2010",
+  "Kilometros": "120000",
+  "imagen": "http://img.autoabc.lv/audi-a4/audi-a4_2007_Sedans_151019112055_5.jpg",
+  "cifm": "3",
+  "cifCA": "1",
+  "marchas": "manual",
+  "precio": "15900"
+}]

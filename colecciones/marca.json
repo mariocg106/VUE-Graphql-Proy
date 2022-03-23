@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "620ac8363c479e1bd4011b65"
+  },
+  "cifm": "1",
+  "nombre": "Seat"
+},{
+  "_id": {
+    "$oid": "620ac8363c479e1bd4011b66"
+  },
+  "cifm": "2",
+  "nombre": "Renault"
+},{
+  "_id": {
+    "$oid": "620ac8363c479e1bd4011b67"
+  },
+  "cifm": "3",
+  "nombre": "Audi"
+},{
+  "_id": {
+    "$oid": "620ac8363c479e1bd4011b68"
+  },
+  "cifm": "4",
+  "nombre": "BMV"
+},{
+  "_id": {
+    "$oid": "620ac8363c479e1bd4011b69"
+  },
+  "cifm": "5",
+  "nombre": "Opel"
+},{
+  "_id": {
+    "$oid": "620ac8363c479e1bd4011b6a"
+  },
+  "cifm": "6",
+  "nombre": "Citroen"
+},{
+  "_id": {
+    "$oid": "620ffea70657c48f32febbd6"
+  },
+  "cifm": "10",
+  "nombre": "toyota"
+},{
+  "_id": {
+    "$oid": "6217ce25a6171faceb332713"
+  },
+  "cifm": "7",
+  "nombre": "volkswagen"
+},{
+  "_id": {
+    "$oid": "6225157178b9eae6c8bd5b9c"
+  },
+  "cifm": "8",
+  "nombre": "Mercedes-Benz"
+}]

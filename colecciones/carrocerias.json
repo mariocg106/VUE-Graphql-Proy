@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "620ac8503c479e1bd4011b6d"
+  },
+  "cifCA": "1",
+  "tipoCARR": "Berlina"
+},{
+  "_id": {
+    "$oid": "620ac8503c479e1bd4011b6e"
+  },
+  "cifCA": "2",
+  "tipoCARR": "Familiar"
+},{
+  "_id": {
+    "$oid": "620ac8503c479e1bd4011b6f"
+  },
+  "cifCA": "3",
+  "tipoCARR": "Coupe"
+},{
+  "_id": {
+    "$oid": "620ac8503c479e1bd4011b70"
+  },
+  "cifCA": "4",
+  "tipoCARR": "Monovolumen"
+},{
+  "_id": {
+    "$oid": "620ac8503c479e1bd4011b71"
+  },
+  "cifCA": "5",
+  "tipoCARR": "4x4 SUV"
+},{
+  "_id": {
+    "$oid": "620ac8503c479e1bd4011b72"
+  },
+  "cifCA": "6",
+  "tipoCARR": "Cabrio"
+},{
+  "_id": {
+    "$oid": "620ac8503c479e1bd4011b73"
+  },
+  "cifCA": "7",
+  "tipoCARR": "Pick Up"
+},{
+  "_id": {
+    "$oid": "621b3676f035a0ca4ee02107"
+  },
+  "cifCA": "10",
+  "tipoCARR": "prueba"
+},{
+  "_id": {
+    "$oid": "621b3f92119048b2edde26fc"
+  },
+  "cifCA": "10",
+  "tipoCARR": "prueba"
+}]
